@@ -10,9 +10,6 @@ export default defineConfig({
   }), sentryVitePlugin({
     org: "jsm-d6",
     project: "javascript-react"
-  }), sentryVitePlugin({
-    org: "jsm-d6",
-    project: "javascript-react"
   })],
 
   build: {
