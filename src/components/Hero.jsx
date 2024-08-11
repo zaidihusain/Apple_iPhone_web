@@ -40,7 +40,7 @@ const Hero = () => {
     </div>
     <div id='cta' className='flex flex-col items-center opacity-0 translate-y-20'>
       <a href="#highlights" className='btn'>Buy</a>
-      <p className='font-normal text-xl'>By Husain</p>
+      <p id='hero' className='text-center font-semibold text-gray-100 opacity-0 max-md:mb-10 text-xl'><a href="https://www.apple.com/in/shop/buy-iphone?afid=p238%7CsnTdg5ZpO-dc_mtid_209254ho67063_pcrid_708079243389_pgrid_135363319397_pexid_100914684823_&cid=wwa-in-kwgo-iphone-slid-ezpzxS8m---Avail-" target='blank'>By Husain</a></p>
       <p className='font-normal text-xl'>From $199/month or $999</p>
     </div>
     </section>
